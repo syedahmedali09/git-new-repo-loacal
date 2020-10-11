@@ -1,1 +1,4 @@
 syed 
+
+
+rebase is line merge not show branch merges
